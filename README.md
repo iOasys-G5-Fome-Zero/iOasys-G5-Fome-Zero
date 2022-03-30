@@ -22,7 +22,5 @@ Seja Bem Vindo! Somos o grupo 5 - Fome Zero!
   <div> 
 
   <a href = "mailto:ioasysgrupo5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/iOasys-G5-Fome-Zero/iOasys-G5-Fome-Zero/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
